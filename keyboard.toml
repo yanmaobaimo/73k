@@ -1,7 +1,7 @@
 # Documentation: https://rmk.rs/docs/configuration.html
 [keyboard]
-name = "73k"
-product_name = "73k"
+name = "L73"
+product_name = "L73"
 vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "RMK"
